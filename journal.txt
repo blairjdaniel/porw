@@ -1,0 +1,1 @@
+so each holder will have a nft id attached to their account, like mine is 4028.png.  AThe system wil know which pfp they own, so I'd like to write the code for the multiople users to look up their staked nft like mine ()
