@@ -1,0 +1,32 @@
+[
+  {
+    "nft_id": 3199,
+    "x_account": "@elrondthomas",
+    "profile_phash": "e8875cc996c833ec",
+    "nft_phash": "b1ce9e196c67328a",
+    "distance": 30,
+    "match": false,
+    "wallet": "F5MkDbYvvUNyf5eQAfdhk5Dok27w8XMFPwtaqPt9qhg8",
+    "discord_account": "Thomasdrifter#7652"
+  },
+  {
+    "nft_id": 3704,
+    "x_account": "@KingDankKush",
+    "profile_phash": "b1cb86921dcb4d99",
+    "nft_phash": "b0cf9a396ce33883",
+    "distance": 24,
+    "match": false,
+    "wallet": "F5MkDbYvvUNyf5eQAfdhk5Dok27w8XMFPwtaqPt9qhg8",
+    "discord_account": "KingDankKush#0255"
+  },
+  {
+    "nft_id": 5455,
+    "x_account": "@TheDeJimmy",
+    "profile_phash": "ce9a9398c7669863",
+    "nft_phash": "b1cfc69939662493",
+    "distance": 32,
+    "match": false,
+    "wallet": "8ptHZ3sRSLp7i1aSE9a3UhVyMbHi8uip1RysyBQAbTqd",
+    "discord_account": "JimmyBate5#5539"
+  }
+]

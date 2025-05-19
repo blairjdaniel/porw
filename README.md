@@ -32,3 +32,7 @@ My rogue is 4028.
 
 - The script uses perceptual hashing, so it can detect visually similar images even if they are not byte-for-byte identical.
 - You can change the allowed "distance" for fuzzy matches by editing the `distance <= 2` line in the script.
+
+**IMPORTANT:**  
+- The fields `nft_id` and `phash` are immutable and must never be changed once set.
+- All other fields (e.g., `wallet`, `x_account`, `discord_account`) can be updated as needed.
