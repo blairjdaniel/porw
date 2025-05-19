@@ -16,7 +16,7 @@
     "nft_phash": "b0cf9a396ce33883",
     "distance": 24,
     "match": false,
-    "wallet": "F5MkDbYvvUNyf5eQAfdhk5Dok27w8XMFPwtaqPt9qhg8",
+    "wallet": "CDEwkWSHQ75h5k5kG4sSb9ibRk6TpyRg6BhgnbNV97a6",
     "discord_account": "KingDankKush#0255"
   },
   {
@@ -28,5 +28,16 @@
     "match": false,
     "wallet": "8ptHZ3sRSLp7i1aSE9a3UhVyMbHi8uip1RysyBQAbTqd",
     "discord_account": "JimmyBate5#5539"
+  },
+  {
+    "nft_id": 4028,
+    "x_account": "@blairjdaniel",
+    "profile_phash": "b1cf869938636c96",
+    "nft_phash": "b1cfc69939662493",
+    "distance": 32,
+    "match": false,
+    "wallet": "8ptHZ3sRSLp7i1aSE9a3UhVyMbHi8uip1RysyBQAbTqd",
+    "discord_account": "JimmyBate5#5539"
   }
+
 ]
